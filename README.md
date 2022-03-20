@@ -1,4 +1,4 @@
-#Dependencies
+# Dependencies
 
 Needs NGSpice V34: https://sourceforge.net/projects/ngspice/files/ng-spice-rework/old-releases/34/ngspice-34.tar.gz/download
 Unpack tarball and check INSTALL file for compilation and installation instructions
